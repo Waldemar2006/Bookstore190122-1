@@ -1,0 +1,24 @@
+{
+  "id": "e539a913-7691-4590-9b1d-d6919c1225bc",
+  "name": "Bookstore190122",
+  "publisher": "get&use Academy GmbH",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.2",
+  "showMyCode": true
+}
